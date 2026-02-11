@@ -74,7 +74,7 @@ python bam2bed.py --input <input.bam> --output <output.bed> --label virus
 ### R Scripts
 
 #### 0. Demo data
-We provided demo data to run Rscripts,
+We provided [demo data](https://github.com/lrslab/DVG_ONT_scripts/releases/download/zenodo_version/demo_data.zip) to run Rscripts,
 ```bash
 wget https://github.com/lrslab/DVG_ONT_scripts/releases/download/zenodo_version/demo_data.zip
 unzip demo_data.zip
