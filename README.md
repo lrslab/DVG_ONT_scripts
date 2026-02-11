@@ -15,12 +15,12 @@ This repository contains a collection of Python and R scripts used for analyzing
 ## Overview
 
 These scripts facilitate the analysis of Nanopore DRS data for viral genome characterization, including:
-- Read length distribution analysis
+- Read length distribution visualization
 - Coverage depth visualization
 - Classification of spliced and unspliced viral reads
 - Recombination junction site identification
-- Poly(A) tail length analysis
-- Chimeric read detection
+- Poly(A) tail length visualization
+- Chimeric read visualization
 
 ## Requirements
 
@@ -149,19 +149,10 @@ attached packages:
 [1] cowplot_1.2.0     data.table_1.17.8 dplyr_1.1.4       ggplot2_4.0.1
 ```
 
-## Citation
-
-If you use these scripts in your research, please cite:
-
-> [Your publication details here]
-
-## License
-
-[Add license information]
 
 ## Contact
 
-For questions or issues, please open an issue in this repository or contact [your contact information].
+For questions or issues, please open an issue in this repository or contact [Dr. TAN Lu](lulu.tan@my.cityu.edu.hk).
 
 ---
 
