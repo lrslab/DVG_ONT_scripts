@@ -12,7 +12,6 @@ This repository contains a collection of Python and R scripts used for analyzing
   - [Python Scripts](#python-scripts)
   - [R Scripts](#r-scripts)
 - [Usage](#usage)
-- [Citation](#citation)
 
 ## Overview
 
@@ -73,6 +72,13 @@ python bam2bed.py --input <input.bam> --output <output.bed> --label virus
 ---
 
 ### R Scripts
+
+#### 0. Demo data
+We provided demo data to run Rscripts,
+```bash
+wget https://github.com/lrslab/DVG_ONT_scripts/releases/download/zenodo_version/demo_data.zip
+unzip demo_data.zip
+```
 
 #### 1. `1_Read Length Boxplot.R`
 Plots the read length distribution of Nanopore DRS reads.
