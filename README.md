@@ -65,7 +65,7 @@ A pysam-based custom Python script that converts BAM alignment files to BED form
 
 **Usage:**
 ```bash
-python bam2bed.py <input.bam> <output.bed>
+python bam2bed.py --input <input.bam> --output <output.bed> --label virus
 ```
 
 ---
