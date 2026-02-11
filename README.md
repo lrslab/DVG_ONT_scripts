@@ -1,5 +1,5 @@
 # DVG_ONT_scripts
-[![DOI](https://zenodo.org//badge/DOI/10.5281/zenodo.18603518.svg)](https://doi.org/10.5281/zenodo.18603518)
+[![DOI](https://zenodo.org//badge/DOI/10.5281/zenodo.18604092.svg)](https://doi.org/10.5281/zenodo.18604092)
 
 
 This repository contains a collection of Python and R scripts used for analyzing Nanopore direct RNA sequencing (DRS) data, particularly focusing on viral reads characterization and defective viral genome (DVG) analysis.
